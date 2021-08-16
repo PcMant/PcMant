@@ -1,10 +1,11 @@
 ### Hola Mundo! - Hello World! 👋
 
-- 🌐 Web Site: https://www.pcmant.com/
+- 💼 Linkedin: https://www.linkedin.com/in/juanmol/
 - 👤 Facebook: https://www.facebook.com/ipcmant
 - 📸 Instagram: https://www.instagram.com/ipcmant/
 - 🐦 Twitter: https://www.twitter.com/ipcmant
-- 📧 Contacto: info@pcmant.com
+- 🌐 Web Site: https://www.pcmant.com/
+- 📧 email: info@pcmant.com
 
 <!--
 **jC0d3t/jC0d3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
