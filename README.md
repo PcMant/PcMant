@@ -8,7 +8,7 @@
 - 🌐 Web Site: https://www.pcmant.com/
 - 📧 email: info@pcmant.com
 
-Skills: Angular / PHP / JS / HTML / CSS / SCSS / MySQL / Shell Script 
+Skills: Angular / PHP / JS / HTML / CSS / SCSS / MySQL / Shell Script / Java
 <!--
 **jC0d3t/jC0d3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
