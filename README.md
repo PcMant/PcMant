@@ -7,7 +7,6 @@
 - 📸 Instagram: https://www.instagram.com/ipcmant/
 - 🐦 Twitter: https://www.twitter.com/ipcmant
 - 📺 YouTube: https://youtube.com/@pcmant
-- 📧 email: info@pcmant.com
 
 ## Skills: 
 Angular / PHP / JS / HTML / CSS / SCSS / MySQL / Shell Script / Java
